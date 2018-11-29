@@ -1,0 +1,6 @@
+linux管理员:root/root
+用户：dev_user/devuser2018
+python安装：usr/bin/python
+
+jieba /home/dev_user/python_work/jieba
+
