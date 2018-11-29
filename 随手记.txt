@@ -1,6 +1,6 @@
-linux¹ÜÀíÔ±:root/root
-ÓÃ»§£ºdev_user/devuser2018
-python°²×°£ºusr/bin/python
+linuxç®¡ç†å‘˜:root/root
+ç”¨æˆ·ï¼šdev_user/devuser2018
+pythonå®‰è£…ï¼šusr/bin/python
 
 jieba /home/dev_user/python_work/jieba
 
